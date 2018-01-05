@@ -31,7 +31,7 @@ To train a model:
 
 ### Generator output (64x64) with `gamma=0.5` after 20 epochs
 
-![all_G_z0_64x64](./assets/fake_samples_epoch_20.png)
+![all_G_z0_64x64](./assets/fake_samples_epoch_020.png)
 
 
 ## Author
